@@ -44,10 +44,13 @@ KlepetChat - это мобильное приложение предназнач
 
 PS: Нажмите Ctrl + лкм для открытия видео в новом окне
 
-<br>[![Watch the video](http://img.youtube.com/vi/1SCAfM5g6vA/0.jpg)](https://www.youtube.com/watch?v=1SCAfM5g6vA&ab_channel=Xedanler)
-</br>
+<br>
+
+[![Watch the video](http://img.youtube.com/vi/1SCAfM5g6vA/0.jpg)](https://www.youtube.com/watch?v=1SCAfM5g6vA&ab_channel=Xedanler)
+
 
 ## Презентация 
+
 [Скачать презентацию KlepetChat.pptx](https://github.com/SlavaNik16/KlepetChat/releases/download/V1.0/KlepetChat.pptx)
 
 ## Как начать использовать:
@@ -58,8 +61,8 @@ PS: Нажмите Ctrl + лкм для открытия видео в ново�
 
 ## Проект в Figma
 
-[Klepet Chat Figma](https://www.figma.com/file/ehS17E1d4aC8xTDfyjCN4T/Klepet?type=whiteboard&node-id=0%3A1&t=2zHvHZJKzOJLYwVT-1)
-
+ - [Klepet Chat Figma](https://www.figma.com/file/ehS17E1d4aC8xTDfyjCN4T/Klepet?type=whiteboard&node-id=0%3A1&t=2zHvHZJKzOJLYwVT-1)
+ 
 ## Поддержка:
 
 Если у вас возникли вопросы или проблемы, обратитесь в нашу службу поддержки в [телеграм группе](https://t.me/klepetchat_support). Мы всегда рады помочь!
